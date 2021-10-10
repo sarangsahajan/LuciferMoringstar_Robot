@@ -33,13 +33,13 @@ HELP = """
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
+➥ Name : ReeloadMedia Auto Filter With IMDB
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [NOBODY](t.me/n_ob_od_y)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Support Channel : [Click Me](t.me/ReeloadMedia)
 """
