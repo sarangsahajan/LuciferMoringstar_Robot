@@ -73,11 +73,11 @@
             "required": false
         },
         "DATABASE_2": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/gBLTsH-IXr0",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://t.me/reeloadmedia",
             "value": ""
         },
         "BOT_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "Name of the database in mongoDB. For more help watch this video - https://t.me/reeloadmedia",
             "value": "LuciferMoringstar_Robot"
         },
         "COLLECTION_NAME": {
@@ -96,7 +96,7 @@
             "required": false
         },
         "DATABASE_1": {
-            "description": "https://youtu.be/gBLTsH-IXr0",
+            "description": "https://t.me/reeloadmedia",
             "value": "",
             "required": true
         },
