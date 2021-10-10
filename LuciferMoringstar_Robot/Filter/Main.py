@@ -276,10 +276,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
         elif query.data == "help":
             buttons = [[
-                InlineKeyboardButton('Update Channel', url='t.me/ReeloadMedia'),
-                InlineKeyboardButton(' second channel ', url="t.me/ReeloadMedia2")
+                InlineKeyboardButton('✨ Channel ✨', url='t.me/ReeloadMedia'),
+                InlineKeyboardButton(' 💫 Group 💫 ', url="t.me/RMChats")
                 ],[
-                InlineKeyboardButton('💫 Group 💫', url=f'{TUTORIAL}')
+                InlineKeyboardButton(' support us ', url=f'{TUTORIAL}')
                 ]]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
